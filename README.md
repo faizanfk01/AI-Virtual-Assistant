@@ -87,7 +87,7 @@ This project requires **Python 3.x** and the following libraries:
 
 1. Clone the repository
 
-        git clone https://github.com/USERNAME/REPO_NAME.git
+        https://github.com/faizanfk01/AI-Virtual-Assistant.git
 
 2. Navigate to the project folder:
 
